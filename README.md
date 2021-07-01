@@ -11,3 +11,4 @@ this reading notes include a table of all my read notes beside a description of 
 |   READ03    | [Javascript Templating](read03.md) |
 |   READ04    | [Css Grids](read04.md) |
 |   READ05    | [Heroku](read05.md) |
+|   READ06    | [Node.js](read06.md) |
