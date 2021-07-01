@@ -12,3 +12,6 @@ this reading notes include a table of all my read notes beside a description of 
 |   READ04    | [Css Grids](read04.md) |
 |   READ05    | [Heroku](read05.md) |
 |   READ06    | [Node.js](read06.md) |
+|   READ07    | [REST](read07.md) |
+|   READ08    | [SQL](read08.md) |
+|   READ09    | [Concepts of Functional Programming in Javascript](read09.md) |
