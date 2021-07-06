@@ -15,3 +15,7 @@ this reading notes include a table of all my read notes beside a description of 
 |   READ07    | [REST](read07.md) |
 |   READ08    | [SQL](read08.md) |
 |   READ09    | [Concepts of Functional Programming in Javascript](read09.md) |
+|   READ10    | [The JavaScript Call Stack  ](read10.md) |
+|   READ11    | [Authentication  ](read11.md) |
+|   READ12    | [Mongo and Mongos  ](read12.md) |
+|   READ13    | [CRUD  ](read13.md) |
