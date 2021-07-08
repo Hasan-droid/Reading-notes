@@ -14,7 +14,7 @@
 
 * early computers were toys with pong and shooting games marketed to men and boys
 
-* awkward geeky boys defined tech culture
+* awkward. geeky boys defined tech culture
 
 ## Employee Breakdown of Key Tech Companies
 
